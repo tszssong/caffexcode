@@ -1,0 +1,1 @@
+label_names[0] == "airplane", label_names[1] == "automobile", label_names[2] == "automobile", label_names[3] == "automobile", label_names[4] == "automobile", label_names[5] == "automobile", label_names[6] == "automobile", label_names[7] == "automobile", label_names[8] == "automobile", label_names[9] == "automobile"
